@@ -1,0 +1,21 @@
+INFO 2950 Phase 1
+Names/netids: Chelsie Beavers (cdb95)
+
+Individual Project:
+
+
+3 ideas (+1):
+
+1. Disney viewers per year 2014 - 2019
+I am interested in "investigating" the fluctuation of Disney channel viewers over time. I prefer to find data per month, but so far I have only found per year. They data is in millions on the source I found. 
+
+2. Monthly/Daily rainfall in Atlanta
+I am interested in studying the monthly or daily rainfall in Atlanta and how in may influence other factors. The source I found shows the inches of rain per month, also per day, in Atlanta and surrounding cities.
+
+3. Price of Apples per pound per month
+I am interested in studying the change in the cost of apples per month. The current source I found does not allow me to access the data through the source code, though the data is present. I am not sure how I will be able to extract the data if I am not able to find another source with similar information.
+
+4. McDonald's revenue per year
+I would like to investigate the average revenue of the McDonald's company per year (though per month is preferred). So far, I have only found yearly statistics for their revenue (published by the company).
+
+
